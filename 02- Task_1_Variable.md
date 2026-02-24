@@ -15,7 +15,7 @@ Key Characteristics of LED light:
 | Low Power Consumption | Very efficient, uses less power than traditional bulbs.                    |
 | Long Lifespan         | LEDs can last tens of thousands of hours.                                  |
 
-An **Anode **and a **Cathode** are the two terminals of an electronic component, like a diode, LED, or battery, and they determine the direction of current flow.
+An **Anode** and a **Cathode** are the two terminals of an electronic component, like a diode, LED, or battery, and they determine the direction of current flow.
 
 | **Term**    | **Symbol** | **Function**                                               | **Current Flow** |
 | ----------- | ---------- | ---------------------------------------------------------- | ---------------- |
