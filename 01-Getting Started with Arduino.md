@@ -27,7 +27,7 @@ Arduino follows a simple logic cycle: Input → Process → Output.
 | Component  | Function                                | Examples                                                              |
 | ---------- | --------------------------------------- | --------------------------------------------------------------------- |
 | Input      | Sensors that "feel" the world           | Buttons, Temperature sensors, Motion detectors, Light sensors         |
-| Processing | The Arduino "thinks" based on your code | "If the button is pressed..." or "If the tempreature gets too hot..." |
+| Processing | The Arduino "thinks" based on your code | "If the button is pressed..." or "If the temperature gets too hot..." |
 | Outputs    | Actions the Arduino takes               | Turning on an LED, spinning a motor, displaying text on a screen      |
 
 **3. Why is it so popular in education?**
@@ -69,7 +69,7 @@ Because Microcontrollers boards have very limited memory, choosing the right "bo
 | --------- | ------------------------ | ----------------------------------- |
 | `int`     | Whole numbers (Integers) | -32,768 to 32,767                   |
 | `float`   | Numbers with decimals    | `3.14`, `25.5 `                     |
-| `bool`    | True or False            | `true` or `false` (1 or 0)`         |
+| `bool`    | True or False            | `true` or `false` (1 or 0)          |
 | `char`    | A single character       | `'A'`,`'z'` (uses single quotes)    |
 | `long`    | Very large whole numbers | Used for `millis()` (time tracking) |
 
@@ -83,7 +83,7 @@ Because Microcontrollers boards have very limited memory, choosing the right "bo
 
 The `const` qualifier is short for "constant." When you add it to a variable declaration, you are telling the Arduino: **"This value is permanent. Do not let any part of the program change it."**
 
-**Example:-** `const int ledPin = 13; // TheThe LED is on Pin 13 and will NEVER move`
+**Example:-** `const int ledPin = 13; // The LED is on Pin 13 and will NEVER move`
 
 **Why use `const` instead of a regular variable**
 
@@ -117,7 +117,7 @@ void setup() {
   pinMode(ledPin, OUTPUT);
 
   // Start Serial communication at 115200 baud rate
- Serial.begin(115200);
+  Serial.begin(115200);
 
 }
 

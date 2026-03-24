@@ -41,7 +41,7 @@ You must:
 
 3. **Celebration Mode:-** LED blinks very fast (100ms delay) 10 times
 
-**Use Wokwi to test you code** **https://wokwi.com/projects/456348137954787329**
+**Use Wokwi to test your code** **https://wokwi.com/projects/456348137954787329**
 
 #
 
@@ -109,7 +109,7 @@ Students must:
 - Call sendSOS() inside loop()
 - Use comments
 
-**Use Wokwi to test you code** **https://wokwi.com/projects/456349405100318721**
+**Use Wokwi to test your code** **https://wokwi.com/projects/456349405100318721**
 
 #
 
@@ -134,7 +134,7 @@ Your task is to create a reusable function that controls the blink speed using o
 - `warningBlink(1000);` :- Slow warning
 - `warningBlink(300);` :- Medium warning
 - `warningBlink(100);` :- Critical warning
-- **Use Wokwi to test you code https://wokwi.com/projects/456350511330290689**
+- **Use Wokwi to test your code https://wokwi.com/projects/456350511330290689**
 
 #
 
@@ -148,4 +148,4 @@ The client wants the LED to blink in different patterns depending on the situati
 
 Instead of creating many separate functions, your manager asks you to design one flexible function that accepts multiple parameters.
 
-**Use Wokwi to test you code https://wokwi.com/projects/456350851250359297**
+**Use Wokwi to test your code https://wokwi.com/projects/456350851250359297**

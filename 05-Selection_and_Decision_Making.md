@@ -98,13 +98,13 @@ void loop() {
 
 ```
 
-**Use Wokwi to test you code : https://wokwi.com/projects/456875546095269889**
+**Use Wokwi to test your code : https://wokwi.com/projects/456875546095269889**
 
 ### 2. `if ... else if ... else`
 
 Use this for "Step-based" logic. The Arduino checks from top to bottom and **stops** as soon as it finds a true condition.
 
-**Use Wokwi to test you code : https://wokwi.com/projects/457476532175028225**
+**Use Wokwi to test your code : https://wokwi.com/projects/457476532175028225**
 
 ```c++
 

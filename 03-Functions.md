@@ -123,7 +123,7 @@ pinMode();
 
 - The brackets `() `are used to pass information
 
-- `"Hello"` is the argumen
+- `"Hello"` is the argument
 
 #
 

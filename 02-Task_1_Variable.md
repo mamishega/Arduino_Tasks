@@ -1,6 +1,4 @@
-#
-
-# Take 1 - Smart Office Status Indicator
+# Task 1 - Smart Office Status Indicator
 
 An LED **(Light Emitting Diode)** is a semiconductor device that emits light when an electric current passes through it.
 
@@ -27,7 +25,7 @@ An **Anode** and a **Cathode** are the two terminals of an electronic component,
 | **Terminal**    | **Description**                      | **Identification**                |
 | --------------- | ------------------------------------ | --------------------------------- |
 | **Anode (+)**   | Connects to **Positive (+)** voltage | **Longer leg**, or flat-free side |
-| **Cathode (-)** | Connects to **ground/negative (–)**  |                                   |
+| **Cathode (-)** | Connects to **ground/negative (–)**  | **Shorter leg**, or flat side     |
 
 ## Scenario
 
@@ -43,9 +41,7 @@ The manager wants:
 
 - Status must print in Serial Monitor
 
-**Use Wokwi to test you code** https://wokwi.com/projects/456338531338776577
-
-#
+**Use Wokwi to test your code** https://wokwi.com/projects/456338531338776577
 
 # Task 2 - LED Sequence Controller
 
@@ -61,4 +57,4 @@ The client wants:
 
 - Repeat forever
 
-**Use Wokwi to test you code** https://wokwi.com/projects/456341115898506241
+**Use Wokwi to test your code** https://wokwi.com/projects/456341115898506241

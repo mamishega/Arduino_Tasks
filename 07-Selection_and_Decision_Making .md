@@ -17,7 +17,7 @@ if (buttonState == LOW) {
 ## Example :
  Toggle an LED on/off with a button press. The first `if` checks if the button is pressed, and the nested `if` toggles the LED state.
 
-**Use Wokwi to test you code : https://wokwi.com/projects/457973439550978049**
+**Use Wokwi to test your code : https://wokwi.com/projects/457973439550978049**
 
 ```c++
 // Define pin numbers
@@ -88,7 +88,7 @@ switch (variable) {
 ## Example:
   Create a simple mode selector with a button. Each press changes the mode, and the LED behaves differently based on the current mode.
 
-**Use Wokwi to test you code : https://wokwi.com/projects/457974868693254145**
+**Use Wokwi to test your code : https://wokwi.com/projects/457974868693254145**
 ```c++
 // Define pin numbers
 const int LED_PIN = 2;
@@ -187,7 +187,7 @@ Proper indentation helps you to:
 
 **Example of good indentation:**
 
-```python
+```c++
 if (buttonPressed) {
 
   if (mode == 1) {
